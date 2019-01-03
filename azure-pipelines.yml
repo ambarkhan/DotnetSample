@@ -32,3 +32,4 @@ jobs:
     inputs:
       platform: '$(buildPlatform)'
       configuration: '$(buildConfiguration)'
+      TestAdapterPath:  'SampleLibrary\packages\MSTest.TestAdapter.1.3.2\build\_common'
